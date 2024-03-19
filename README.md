@@ -1,0 +1,6 @@
+- This is a **Time-Series based Python** project.
+- For this project we consider the data of **S&P 500** which is a Stock Market Index that measures   the stock performance of 500 large companies listed on stock exchanges in United States.
+- The project utilizes the **OS module** for interacting with the operating system and leverages the **Pandas library** for data manipulation, cleaning, and conducting exploratory data analysis.
+- Visualizations are created using **Matplotlib and Seaborn** to gain insights from the data.
+- Key findings include identifying periods of maximum positive (**3.87%**) and negative price changes (**-2.45%**), which are crucial for decision-making.
+- Furthermore, through correlation analysis, it was determined that when there's a fluctuation in **Amazon's** stock prices, there's a 40% likelihood of a corresponding change in **Microsoft's** stock prices and a 54% likelihood of a change in **Google's** stock prices. Similarly, when Google's stock prices fluctuate, there's a 48% probability of a corresponding change in Microsoft's stock prices.
